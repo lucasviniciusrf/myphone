@@ -1,0 +1,9 @@
+iPhone 15 Pro Max 3D Model by MajdyModels (@MG990)
+Original model: https://sketchfab.com/3d-models/iphone-15-pro-max-5b7b35513a154ac69619dc2b2fe15686
+License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+https://creativecommons.org/licenses/by/4.0/
+
+The GLB was obtained from the Pane project (https://github.com/ibuhs/Pane),
+which credits this model to MajdyModels. The MyPhone site applies lighting,
+interactive rotation and optional material tinting at runtime. Its geometry
+and embedded texture are not edited.
